@@ -3,6 +3,7 @@
     border: solid;
     border-color: grey;
     width: 400px;
+    border-radius: 10px;
 }
 
 
@@ -12,6 +13,3 @@
     width: 150px;
 }
 
-.picture {
-    
-}
