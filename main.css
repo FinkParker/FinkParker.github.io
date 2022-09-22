@@ -3,9 +3,18 @@
     border: solid;
     border-color: grey;
     width: 400px;
+    height: 300px;
     border-radius: 10px;
 }
 
+.aboutMe {
+    float: left;
+    border: solid;
+    border-color: grey;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+}
 
 .button {
     display: inline-block;
