@@ -1,7 +1,7 @@
 .contactInfo {
     float: right;
     border: solid;
-    border-color: grey;
+    border-color: black;
     width: 400px;
     height: 300px;
     border-radius: 10px;
@@ -10,7 +10,7 @@
 .aboutMe {
     float: left;
     border: solid;
-    border-color: grey;
+    border-color: black;
     width: 400px;
     height: 300px;
     border-radius: 10px;
@@ -21,4 +21,9 @@
     border-radius: 10px;
     width: 150px;
 }
+
+body {
+    background-image: linear-gradient(to right,  #1394ec, #2e46d1);
+}
+
 
