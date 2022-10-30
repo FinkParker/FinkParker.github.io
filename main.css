@@ -13,7 +13,8 @@
     border-color: black;
     width: 400px;
     height: 300px;
-    border-radius: 10px;
+    border-radius: 10px;    
+    color: black;
 }
 
 .button {
@@ -23,7 +24,8 @@
 }
 
 body {
-    background-image: linear-gradient(to right,  #1394ec, #2e46d1);
+    background-image: linear-gradient(to right,  blue, red);
+
 }
 
 
